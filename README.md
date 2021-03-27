@@ -1,11 +1,16 @@
 
-Magento Customer Attribute Extension
+**Magento Customer Attribute Extension**
+
 Adding custom fields to Magento Registration Form
+
 Author : Srikanth Gopi (Esgee Infotech)
 
 Supports 3 Custom Customer Attributes
+
 Custom Text Field -> Text Box
+
 Custom Yes/No -> Yes/No Field
+
 Custom Dropdown -> Select Box
 
 More to come
