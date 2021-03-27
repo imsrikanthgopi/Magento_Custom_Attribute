@@ -3,6 +3,8 @@
 
 Adding custom fields to Magento Registration Form
 
+Supported Versions : Magento 2.3, 2.4
+
 Author : Srikanth Gopi (Esgee Infotech)
 
 Supports 3 Custom Customer Attributes
