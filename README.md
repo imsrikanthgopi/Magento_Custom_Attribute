@@ -3,7 +3,7 @@
 
 Adding custom fields to Magento Registration Form
 
-Supported Versions : Magento 2.3, 2.4
+Supported Versions : Magento 2.3.x, 2.4.x
 
 Author : Srikanth Gopi (Esgee Infotech)
 
